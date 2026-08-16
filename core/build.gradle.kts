@@ -17,4 +17,6 @@ dependencies {
     api("com.typesafe:config:1.4.3")
 
     testImplementation("org.scalatest:scalatest_3:3.2.18")
+    testImplementation("org.scalatestplus:junit-4-13_3:3.2.18.0")
+    testImplementation("junit:junit:4.13.2")
 }
